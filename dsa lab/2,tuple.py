@@ -1,0 +1,10 @@
+#tuple
+marks=(85,84,98,87,39,48)
+print("tuple: ", marks)
+print("first mark:",marks[0])
+print("number of marks: ",len(marks))
+print("slicing:",marks[0:3])
+print("count:",marks.count(39))
+print("highest mark:",max(marks))
+print("lowest marks:",min(marks))
+print("total:",sum(marks))

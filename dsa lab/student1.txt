@@ -1,0 +1,3 @@
+student name: anu
+department: computer science
+mark:90
